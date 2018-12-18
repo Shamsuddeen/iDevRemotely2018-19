@@ -12,7 +12,13 @@
 **The adjective that best describes me:** Funny <br>
 ___
 
-_// Yours goes here.._
+**Name:** Shamsuddeen Omacy (@Shamsuddee) <br>
+**Occupation:** Web Developer<br>
+**Interests:** Programming, Robotics | IoT | Music<br>
+**Role Model:** Mack Zukerberg, Bill Gates, Steve Jobs <br>
+**Favorite Superhero:** None <br>
+**Favorite Quote:** "Declare varibles, not war." <br>
+**The adjective that best describes me:** Funny <br>
 
 
 
